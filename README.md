@@ -25,4 +25,6 @@ The below command is example
            
            python payload_extracter.py /home/admin/Downloads/NordOxygen_14.I.11_OTA_2110_all_2205021358_6e38af882116.zip /home/admin/Downloads/Nord
             
+ Example :
  
+ <img src="https://github.com/Sanju0910/readme_res/blob/main/images/payload_dumper_eg.png" />
