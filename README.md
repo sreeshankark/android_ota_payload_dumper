@@ -27,4 +27,4 @@ The below command is example
             
  Example :
  
- <img src="https://github.com/Sanju0910/readme_res/blob/main/images/payload_dumper_eg.png" />
+ <img src="https://github.com/Sanju0910/Sanju0910/blob/main/images/payload_dumper_eg.png" />
